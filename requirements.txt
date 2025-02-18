@@ -1,0 +1,6 @@
+gradio
+azure-cognitiveservices-speech
+moviepy
+pyspellchecker  
+stanza
+requests
