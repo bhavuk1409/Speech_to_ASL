@@ -1,6 +1,8 @@
+python==3.9
 gradio
 azure-cognitiveservices-speech
 moviepy
 pyspellchecker
 stanza
 requests
+imageio_ffmpeg
