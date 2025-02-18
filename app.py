@@ -22,7 +22,7 @@ os.environ['KAGGLE_USERNAME'] =(kaggle_username)  # Get username from environmen
 os.environ['KAGGLE_KEY'] =(kaggle_key)  # Get API key from environment variable
 
 # Step 2: Specify the dataset identifier
-dataset = '/Users/bhavukagrawal/sih app/datasets'  # Replace with the Kaggle dataset identifier
+dataset = 'datasets'  # Replace with the Kaggle dataset identifier
 
 #)
 
